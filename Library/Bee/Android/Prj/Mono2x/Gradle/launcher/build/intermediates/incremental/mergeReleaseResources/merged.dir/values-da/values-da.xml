@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Autorisation Påkrævet</string>
+    <string name="CHOOSE_IMAGE">Vælg billede</string>
+    <string name="DOWNLOAD_STARTED">Download startet.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Ingen tilladelse til udskrivning af ekstern lagerplads.</string>
+    <string name="INVALID_URL">ugyldig URL</string>
+    <string name="LOADING">Indlæser…</string>
+    <string name="PASSWORD">Adgangskode</string>
+    <string name="SAVE_IMAGE">Gem billede</string>
+    <string name="USERNAME">Brugernavn</string>
+    <string name="__arcore_cancel">Annuller</string>
+    <string name="__arcore_continue">Fortsæt</string>
+    <string name="__arcore_install_app">Denne app kræver den nyeste version af Google Play-tjenester til AR.</string>
+    <string name="__arcore_install_feature">Denne funktion kræver den nyeste version af Google Play-tjenester til AR.</string>
+    <string name="__arcore_installing">Installerer Google Play-tjenester til AR…</string>
+</resources>

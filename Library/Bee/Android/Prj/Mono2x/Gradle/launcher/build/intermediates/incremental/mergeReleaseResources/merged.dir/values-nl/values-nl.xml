@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Autorisatie vereist</string>
+    <string name="CHOOSE_IMAGE">Kies afbeelding</string>
+    <string name="DOWNLOAD_STARTED">Download gestart.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Geen schrijfrechten voor externe opslag.</string>
+    <string name="INVALID_URL">Ongeldige URL</string>
+    <string name="LOADING">Bezig met laden…</string>
+    <string name="PASSWORD">Wachtwoord</string>
+    <string name="SAVE_IMAGE">Afbeelding opslaan</string>
+    <string name="USERNAME">Gebruikersnaam</string>
+    <string name="__arcore_cancel">Annuleren</string>
+    <string name="__arcore_continue">Doorgaan</string>
+    <string name="__arcore_install_app">Voor deze app heb je de nieuwste versie van Google Play-services voor AR nodig.</string>
+    <string name="__arcore_install_feature">Voor deze functie heb je de nieuwste versie van Google Play-services voor AR nodig.</string>
+    <string name="__arcore_installing">Google Play-services voor AR installeren…</string>
+</resources>

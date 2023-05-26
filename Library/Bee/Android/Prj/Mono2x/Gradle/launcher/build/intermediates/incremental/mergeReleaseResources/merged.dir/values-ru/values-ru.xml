@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Требуется Авторизация</string>
+    <string name="CHOOSE_IMAGE">Выберите изображение</string>
+    <string name="DOWNLOAD_STARTED">Загрузка началась</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Нет разрешения на запись во внешнее хранилище.</string>
+    <string name="INVALID_URL">Неверная ссылка</string>
+    <string name="LOADING">загрузка…</string>
+    <string name="PASSWORD">пароль</string>
+    <string name="SAVE_IMAGE">Сохранить изображение</string>
+    <string name="USERNAME">имя пользователя</string>
+    <string name="__arcore_cancel">Отмена</string>
+    <string name="__arcore_continue">Далее</string>
+    <string name="__arcore_install_app">Для работы этого приложения нужна последняя версия сервисов Google Play для AR.</string>
+    <string name="__arcore_install_feature">Для работы этой функции нужна последняя версия сервисов Google Play для AR.</string>
+    <string name="__arcore_installing">Установка сервисов Google Play для AR…</string>
+</resources>

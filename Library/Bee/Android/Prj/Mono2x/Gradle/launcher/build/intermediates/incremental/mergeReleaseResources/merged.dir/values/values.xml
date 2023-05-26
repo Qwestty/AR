@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="unitySurfaceView" type="id"/>
+    <string name="AUTH_REQUIRE_TITLE">Authorization Required</string>
+    <string name="CHOOSE_IMAGE">Choose image</string>
+    <string name="DOWNLOAD_STARTED">Download started.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">No external storage write permission.</string>
+    <string name="FreeformWindowOrientation_landscape"/>
+    <string name="FreeformWindowOrientation_portrait"/>
+    <string name="FreeformWindowSize_maximize"/>
+    <string name="FreeformWindowSize_phone"/>
+    <string name="FreeformWindowSize_tablet"/>
+    <string name="INVALID_URL">Invalid URL</string>
+    <string name="LOADING">Loading…</string>
+    <string name="PASSWORD">Password</string>
+    <string name="SAVE_IMAGE">Save Image</string>
+    <string name="USERNAME">Username</string>
+    <string name="__arcore_cancel">Cancel</string>
+    <string name="__arcore_continue">Continue</string>
+    <string name="__arcore_install_app">This application requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_install_feature">This feature requires the latest version of Google Play Services for AR.</string>
+    <string name="__arcore_installing">Installing Google Play Services for AR…</string>
+    <string name="app_name">My project (1)</string>
+    <string name="game_view_content_description">Game view</string>
+    <string name="vuforia_share_chooser_title">Share Vuforia Recording</string>
+    <style name="BaseUnityTheme" parent="android:Theme.Holo.Light.NoActionBar.Fullscreen">
+</style>
+    <style name="UnityThemeSelector" parent="BaseUnityTheme">
+	<item name="android:windowBackground">@android:color/black</item>
+</style>
+    <style name="UnityThemeSelector.Translucent" parent="@style/UnityThemeSelector">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+</style>
+</resources>

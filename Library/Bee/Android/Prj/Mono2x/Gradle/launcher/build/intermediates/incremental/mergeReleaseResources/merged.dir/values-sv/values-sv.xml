@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Behörighet krävs</string>
+    <string name="CHOOSE_IMAGE">Välj bild</string>
+    <string name="DOWNLOAD_STARTED">Nedladdningen startade.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Ingen skrivtillstånd för extern lagring.</string>
+    <string name="INVALID_URL">Ogiltig URL</string>
+    <string name="LOADING">Läser in…</string>
+    <string name="PASSWORD">Lösenord</string>
+    <string name="SAVE_IMAGE">Spara bild</string>
+    <string name="USERNAME">Användarnamn</string>
+    <string name="__arcore_cancel">Avbryt</string>
+    <string name="__arcore_continue">Fortsätt</string>
+    <string name="__arcore_install_app">Den senaste versionen av Google Play-tjänster för AR krävs för den här appen.</string>
+    <string name="__arcore_install_feature">Den senaste versionen av Google Play-tjänster för AR krävs för den här funktionen.</string>
+    <string name="__arcore_installing">Google Play-tjänster för AR installeras …</string>
+</resources>

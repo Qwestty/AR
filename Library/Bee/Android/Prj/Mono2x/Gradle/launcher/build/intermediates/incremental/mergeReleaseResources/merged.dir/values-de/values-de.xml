@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Erlaubnis benötigt</string>
+    <string name="CHOOSE_IMAGE">Bild auswählen</string>
+    <string name="DOWNLOAD_STARTED">Der Download wurde gestartet.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Keine Schreibberechtigung für externen Speicher.</string>
+    <string name="INVALID_URL">ungültige URL</string>
+    <string name="LOADING">Wird geladen…</string>
+    <string name="PASSWORD">Passwort</string>
+    <string name="SAVE_IMAGE">Bild speichern</string>
+    <string name="USERNAME">Nutzername</string>
+    <string name="__arcore_cancel">Abbrechen</string>
+    <string name="__arcore_continue">Weiter</string>
+    <string name="__arcore_install_app">Für diese Anwendung ist die neueste Version der Google Play-Dienste für AR erforderlich.</string>
+    <string name="__arcore_install_feature">Für diese Funktion ist die neueste Version der Google Play-Dienste für AR erforderlich.</string>
+    <string name="__arcore_installing">Google Play-Dienste für AR werden installiert…</string>
+</resources>

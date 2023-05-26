@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">autorização necessária</string>
+    <string name="CHOOSE_IMAGE">Escolha a imagem</string>
+    <string name="DOWNLOAD_STARTED">O download foi iniciado</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Nenhuma permissão de gravação de armazenamento externo.</string>
+    <string name="INVALID_URL">URL inválida</string>
+    <string name="LOADING">Carregando…</string>
+    <string name="PASSWORD">Senha</string>
+    <string name="SAVE_IMAGE">Salvar imagem</string>
+    <string name="USERNAME">Nome de usuário</string>
+    <string name="__arcore_cancel">Cancelar</string>
+    <string name="__arcore_continue">Continuar</string>
+    <string name="__arcore_install_app">Este app precisa da versão mais recente do Google Play Services para RA.</string>
+    <string name="__arcore_install_feature">Este recurso precisa da versão mais recente do Google Play Services para RA.</string>
+    <string name="__arcore_installing">Instalando o Google Play Services para RA…</string>
+</resources>

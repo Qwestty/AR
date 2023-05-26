@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">需要授權</string>
+    <string name="CHOOSE_IMAGE">選擇圖片</string>
+    <string name="DOWNLOAD_STARTED">下載已開始</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">沒有外部存儲寫入權限。</string>
+    <string name="INVALID_URL">無效的 URL</string>
+    <string name="LOADING">載入中…</string>
+    <string name="PASSWORD">密碼</string>
+    <string name="SAVE_IMAGE">保存圖片</string>
+    <string name="USERNAME">用戶名</string>
+    <string name="__arcore_cancel">取消</string>
+    <string name="__arcore_continue">繼續</string>
+    <string name="__arcore_install_app">必須安裝最新版本的「Google Play 服務 - AR 適用」，才能啟用這個應用程式。</string>
+    <string name="__arcore_install_feature">必須安裝最新版本的「Google Play 服務 - AR 適用」，才能啟用此功能。</string>
+    <string name="__arcore_installing">正在安裝「Google Play 服務 - AR 適用」…</string>
+</resources>

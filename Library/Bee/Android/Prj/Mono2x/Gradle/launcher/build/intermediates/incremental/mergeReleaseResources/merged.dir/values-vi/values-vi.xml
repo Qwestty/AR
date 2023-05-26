@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AUTH_REQUIRE_TITLE">Authorization Required</string>
+    <string name="CHOOSE_IMAGE">Chọn hình ảnh</string>
+    <string name="DOWNLOAD_STARTED">Việc tải xuống đã bắt đầu.</string>
+    <string name="EXTERNAL_WRITE_PERMISSION_LACK">Không có quyền ghi lưu trữ bên ngoài.</string>
+    <string name="INVALID_URL">URL không hợp lệ</string>
+    <string name="LOADING">Tải…</string>
+    <string name="PASSWORD">Mật khẩu</string>
+    <string name="SAVE_IMAGE">Lưu hình ảnh</string>
+    <string name="USERNAME">Tên đăng nhập</string>
+    <string name="__arcore_cancel">Hủy</string>
+    <string name="__arcore_continue">Tiếp tục</string>
+    <string name="__arcore_install_app">Ứng dụng này yêu cầu phiên bản mới nhất của Dịch vụ Google Play cho Thực tế tăng cường.</string>
+    <string name="__arcore_install_feature">Tính năng này yêu cầu phiên bản mới nhất của Dịch vụ Google Play cho Thực tế tăng cường.</string>
+    <string name="__arcore_installing">Đang cài đặt Dịch vụ Google Play cho Thực tế tăng cường…</string>
+</resources>

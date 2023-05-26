@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Ivan\\My project (1)\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-da\\values-da.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\16e84a82246e39f10f24b4734dc13f8e\\core-1.22.0\\res\\values-da\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8",
+                        "startColumns": "0,0,0,0,0",
+                        "startOffsets": "190,239,289,403,526",
+                        "endColumns": "48,49,113,122,85",
+                        "endOffsets": "238,288,402,525,611"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "602,655,709,827,954",
+                        "endColumns": "52,53,117,126,89",
+                        "endOffsets": "650,704,822,949,1039"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Ivan\\.gradle\\caches\\transforms-2\\files-2.1\\536c5b47686e57c6c7fab50bacd6e67d\\UniWebView\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,178,241,356,408,454,503,554",
+                        "endColumns": "68,53,62,114,51,45,48,50,47",
+                        "endOffsets": "119,173,236,351,403,449,498,549,597"
+                    }
+                }
+            ]
+        }
+    ]
+}
